@@ -1,5 +1,6 @@
 # Log Analysis Script
 Overview
+
 This Python script processes web server log files to extract and analyze key information. It performs three main tasks:
 
 Counts Requests per IP Address: Identifies all IP addresses from the log file and counts the number of requests made by each IP.
